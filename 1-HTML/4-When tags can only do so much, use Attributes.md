@@ -25,7 +25,7 @@ Another example of an element is `<a>` — this stands for anchor and will make 
 
 ---
 
-## Meet The image tag: <strong>`<a>`</strong>
+## Meet The image tag: <strong>`<img>`</strong>
 
 * Another essential tag that needs an attribute to make sense is the `img` tag, which represents an image. It holds the source path to its image file in an attribute called `src`.
 

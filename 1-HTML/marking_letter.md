@@ -1,6 +1,6 @@
 # Starting point
 
-To get this assessment started, you should go and grab the raw text you need to mark up from the file `letter.txt` , and the CSS you need to include in your HTML. Create a new `letter.html` file using your text editor to do your work in (or alternatively use a site like JSBin or Thimble to do your assessment.)
+To get this assessment started, you should go and grab the raw text you need to mark up from the file `letter.txt` , and the [CSS](https://github.com/morfioce/fullstackjs-course/blob/master/1-HTML/snippets/css.txt) you need to include in your HTML. Create a new `letter.html` file using your text editor to do your work in (or alternatively use a site like JSBin or Thimble to do your assessment.)
  
  >	You don't need to know any CSS to do this assessment; you just need to put the provided CSS inside an HTML element.
 
